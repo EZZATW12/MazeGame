@@ -1,0 +1,42 @@
+C:\Users\ezzat\source\repos\MageGame\MageGame\obj\Debug\net8.0\MageGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezzat\source\repos\MageGame\MageGame\obj\Debug\net8.0\MageGame.AssemblyInfoInputs.cache
+C:\Users\ezzat\source\repos\MageGame\MageGame\obj\Debug\net8.0\MageGame.AssemblyInfo.cs
+C:\Users\ezzat\source\repos\MageGame\MageGame\obj\Debug\net8.0\MageGame.csproj.CoreCompileInputs.cache
+C:\Users\ezzat\source\repos\MageGame\MageGame\bin\Debug\net8.0\MageGame.exe
+C:\Users\ezzat\source\repos\MageGame\MageGame\bin\Debug\net8.0\MageGame.deps.json
+C:\Users\ezzat\source\repos\MageGame\MageGame\bin\Debug\net8.0\MageGame.runtimeconfig.json
+C:\Users\ezzat\source\repos\MageGame\MageGame\bin\Debug\net8.0\MageGame.dll
+C:\Users\ezzat\source\repos\MageGame\MageGame\bin\Debug\net8.0\MageGame.pdb
+C:\Users\ezzat\source\repos\MageGame\MageGame\obj\Debug\net8.0\MageGame.dll
+C:\Users\ezzat\source\repos\MageGame\MageGame\obj\Debug\net8.0\refint\MageGame.dll
+C:\Users\ezzat\source\repos\MageGame\MageGame\obj\Debug\net8.0\MageGame.pdb
+C:\Users\ezzat\source\repos\MageGame\MageGame\obj\Debug\net8.0\MageGame.genruntimeconfig.cache
+C:\Users\ezzat\source\repos\MageGame\MageGame\obj\Debug\net8.0\ref\MageGame.dll
+D:\work\Projects\OOP_Projects\MazeGame\MageGame\MageGame\bin\Debug\net8.0\MageGame.exe
+D:\work\Projects\OOP_Projects\MazeGame\MageGame\MageGame\bin\Debug\net8.0\MageGame.deps.json
+D:\work\Projects\OOP_Projects\MazeGame\MageGame\MageGame\bin\Debug\net8.0\MageGame.runtimeconfig.json
+D:\work\Projects\OOP_Projects\MazeGame\MageGame\MageGame\bin\Debug\net8.0\MageGame.dll
+D:\work\Projects\OOP_Projects\MazeGame\MageGame\MageGame\bin\Debug\net8.0\MageGame.pdb
+D:\work\Projects\OOP_Projects\MazeGame\MageGame\MageGame\obj\Debug\net8.0\MageGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\Projects\OOP_Projects\MazeGame\MageGame\MageGame\obj\Debug\net8.0\MageGame.AssemblyInfoInputs.cache
+D:\work\Projects\OOP_Projects\MazeGame\MageGame\MageGame\obj\Debug\net8.0\MageGame.AssemblyInfo.cs
+D:\work\Projects\OOP_Projects\MazeGame\MageGame\MageGame\obj\Debug\net8.0\MageGame.csproj.CoreCompileInputs.cache
+D:\work\Projects\OOP_Projects\MazeGame\MageGame\MageGame\obj\Debug\net8.0\MageGame.dll
+D:\work\Projects\OOP_Projects\MazeGame\MageGame\MageGame\obj\Debug\net8.0\refint\MageGame.dll
+D:\work\Projects\OOP_Projects\MazeGame\MageGame\MageGame\obj\Debug\net8.0\MageGame.pdb
+D:\work\Projects\OOP_Projects\MazeGame\MageGame\MageGame\obj\Debug\net8.0\MageGame.genruntimeconfig.cache
+D:\work\Projects\OOP_Projects\MazeGame\MageGame\MageGame\obj\Debug\net8.0\ref\MageGame.dll
+D:\work\backend _.net\Projects\OOP_Projects\MazeGame\MageGame\MageGame\bin\Debug\net8.0\MageGame.exe
+D:\work\backend _.net\Projects\OOP_Projects\MazeGame\MageGame\MageGame\bin\Debug\net8.0\MageGame.deps.json
+D:\work\backend _.net\Projects\OOP_Projects\MazeGame\MageGame\MageGame\bin\Debug\net8.0\MageGame.runtimeconfig.json
+D:\work\backend _.net\Projects\OOP_Projects\MazeGame\MageGame\MageGame\bin\Debug\net8.0\MageGame.dll
+D:\work\backend _.net\Projects\OOP_Projects\MazeGame\MageGame\MageGame\bin\Debug\net8.0\MageGame.pdb
+D:\work\backend _.net\Projects\OOP_Projects\MazeGame\MageGame\MageGame\obj\Debug\net8.0\MageGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\backend _.net\Projects\OOP_Projects\MazeGame\MageGame\MageGame\obj\Debug\net8.0\MageGame.AssemblyInfoInputs.cache
+D:\work\backend _.net\Projects\OOP_Projects\MazeGame\MageGame\MageGame\obj\Debug\net8.0\MageGame.AssemblyInfo.cs
+D:\work\backend _.net\Projects\OOP_Projects\MazeGame\MageGame\MageGame\obj\Debug\net8.0\MageGame.csproj.CoreCompileInputs.cache
+D:\work\backend _.net\Projects\OOP_Projects\MazeGame\MageGame\MageGame\obj\Debug\net8.0\MageGame.dll
+D:\work\backend _.net\Projects\OOP_Projects\MazeGame\MageGame\MageGame\obj\Debug\net8.0\refint\MageGame.dll
+D:\work\backend _.net\Projects\OOP_Projects\MazeGame\MageGame\MageGame\obj\Debug\net8.0\MageGame.pdb
+D:\work\backend _.net\Projects\OOP_Projects\MazeGame\MageGame\MageGame\obj\Debug\net8.0\MageGame.genruntimeconfig.cache
+D:\work\backend _.net\Projects\OOP_Projects\MazeGame\MageGame\MageGame\obj\Debug\net8.0\ref\MageGame.dll
